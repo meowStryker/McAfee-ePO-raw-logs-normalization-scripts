@@ -6,7 +6,13 @@ Disclaimer: No sensitive information being provided nor exposed on this script.
 Original Script Author: meowStryker
 Github: https://meowstryker.github.io/
 
-
+## How to use it?
+1. Download the Python file (.py) or binary (.pyc or .exe)  
+2. Moved the file to the location of the McAfee ePO raw logs that you want to extract.  
+3. Run the script.  
+4. Enter the name of the McAfee raw log file.  
+5. Enter the output file name you wanted (the program will automatically add .csv at the end of the file).  
+6. Wait it to finish processing. :3 
 
 ## Update Version: 0.2  
 - Added new binaries (.pyc and .exe)
