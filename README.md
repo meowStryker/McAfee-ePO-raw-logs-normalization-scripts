@@ -1,6 +1,6 @@
 # McAfee ePO - RAw Logs Normalization script (RALN)  
 Purpose: To convert raw logs from McAfee ePO to CSV. Alternative script to assist security engineer to normalize the logs manually when required.  
-License: GPLv3
+License: GPLv3  
 Disclaimer: No sensitive information being provided nor exposed in this script.  
 Original Script Author: meowStryker  
 Github: https://meowstryker.github.io/  
