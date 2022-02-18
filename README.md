@@ -14,5 +14,10 @@ Feel free to use it but please don't copyright or claimed it as your own - Shari
 5. Enter the output file name you wanted (the program will automatically add .csv at the end of the file).  
 6. Wait it to finish processing. :3 
 
-## Update Version: 0.2  
+## [LATEST] Update Version 0.3 (18th Feb 2022)
+- Improved columns selection.
+- Cleaner & more dynamic code. Just insert additional column name inside logTagList variable is required.
+- Fixes regex capture formula
+
+## Update Version: 0.2  (17th Feb 2022)
 - Added new binaries (.pyc and .exe)
